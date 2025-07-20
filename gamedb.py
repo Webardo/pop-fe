@@ -74688,6 +74688,9 @@ gameid_by_md5sum = {
     '346e813e1cd8466d599403f7c9836fc3': {
         'id': 'SDUS00515',
     },
+    '852a78bd6b33c74ab0e2bcf271ff71ec': {
+        'id': 'SLES00503',
+    },
 }
 
 gameid_translation = {
